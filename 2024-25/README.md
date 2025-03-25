@@ -10,6 +10,8 @@
 
 ## AY 2024-25
 
+See also the list of [bibliographic references](../references/references.md)
+
 #### Introduction to Natural Language Processing $\sim$ 6h
 
 - [Vector Space](./nlp/L0.0-introduction-to-text-data.ipynb)
