@@ -24,13 +24,19 @@
 - [Tutorial on PyTorch (deep learning)](./nlp/L1.4-deep-learning-pytorch.ipynb)
 
 #### Language models $\sim$ 3h
+
+- [Introduction slides](../references/language-models.pdf)
 - [Markov Language Model](./nlp/L2.0-statistical-language-models.ipynb)
 
 #### Neural networks as language models $\sim$ 3h
+- [Introduction slides](../references/nlm-word2vec.pdf)
 - [Word2Vec and word embedding (basics)](./nlp/L3.0-w2w-basics.ipynb)
 
 #### Text encoding and sequence learning $\sim$ 6h
-- Recurrent neural networks and long short-term memory networks
+- [Introduction slides](../references/sequence-learning.pdf)
+- [Simple RNN example](../2024-25/nlp/L4.0-sequence-learning-example.ipynb)
+- [Sequence classification](../2024-25/nlp/L4.1-sequence-classification.ipynb)
+- [Sequence generation](../2024-25/nlp/L4.2-sequence-generation.ipynb)
 
 #### Transformers $\sim$ 9h
 - [Transformers architecture](../2023-24/nlp/transformers/transformers-explained.ipynb)
