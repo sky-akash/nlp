@@ -43,7 +43,7 @@ See also the list of [bibliographic references](../references/references.md)
 #### Transformers $\sim$ 9h
 - [Transformers architecture](../2023-24/nlp/transformers/transformers-explained.ipynb)
 - [BERT](../2023-24/nlp/BERT/bert-explained.ipynb)
-- [GPT](https://arena-chapter1-transformer-interp.streamlit.app/%5B1.1%5D_Transformer_from_Scratch)
+- [GPT](../2024-25/nlp/L5.1-gpt.ipynb)
 
 #### NLP applications  $\sim$ 3h
 
