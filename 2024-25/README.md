@@ -50,6 +50,10 @@ See also the list of [bibliographic references](../references/references.md)
 #### Proprietary models and prompt engineering
 - [Prompt Engineering](../2024-25/nlp/L7.0-prompt-engineering.ipynb)
 
-#### Explainable AI, bias and ethics $\sim$ 6h
+#### Explainable AI, bias and ethics
 - [Explainability](../2024-25/nlp/L8.0-explainability.ipynb)
 - [Bias and Stereotypes](../2024-25/nlp/L8.1-biases.ipynb)
+
+#### List of project proposals
+
+Project proposals can be found [here](./projects.md)
