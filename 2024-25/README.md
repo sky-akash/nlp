@@ -56,4 +56,4 @@ See also the list of [bibliographic references](../references/references.md)
 
 #### List of project proposals
 
-Project proposals can be found [here](./projects.md)
+Project proposals can be found [here](./projects/nlp-projects-2024-25.md)
