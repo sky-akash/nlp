@@ -298,6 +298,7 @@ This project investigates how large language models encode literary style and wh
 - [Comprehensive Literary Greats Dataset](https://www.kaggle.com/datasets/thedevastator/comprehensive-literary-greats-dataset). 50,000+ Books Rated and Awarded Across Language, Genre, and Format.
 - [BOOKSUM: A Collection of Datasets for Long-form Narrative Summarization](https://huggingface.co/datasets/kmfoda/booksum): The majority of available text summarization datasets include short-form source documents that lack long-range causal and temporal dependencies, and often contain strong layout and stylistic biases.
 - [The CONLIT Dataset of Contemporary Literature](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.88). This dataset includes derived data on a collection of ca. 2,700 books in English published between 2001–2021 and spanning 12 different genres.
+- [Wikiart dataset](https://github.com/cs-chan/ArtGAN/tree/master/WikiArt%20Dataset). Tan, W. R., Chan, C. S., Aguirre, H. E., & Tanaka, K. (2018). Improved ArtGAN for conditional synthesis of natural image and artwork. IEEE Transactions on Image Processing, 28(1), 394-409.
 
 #### References
 
