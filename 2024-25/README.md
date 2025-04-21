@@ -45,14 +45,21 @@ See also the list of [bibliographic references](../references/references.md)
 - [BERT](../2023-24/nlp/BERT/bert-explained.ipynb)
 - [GPT](../2024-25/nlp/L5.1-gpt.ipynb)
 
-#### Text2Image
+#### Image Processing
+- [Image processing](../2024-25/nlp/L6.0-image-processing.ipynb)
 
 #### Proprietary models and prompt engineering
 - [Prompt Engineering](../2024-25/nlp/L7.0-prompt-engineering.ipynb)
 
 #### Explainable AI, bias and ethics
 - [Explainability](../2024-25/nlp/L8.0-explainability.ipynb)
+    - [SHAP methods](../2024-25/nlp/L8.3-shap_example.ipynb)
+    - [Saliency](../2024-25/nlp/L8.4-saliency-clip.ipynb)
+    - [Concept Activation](../2024-25/nlp/L8.5-concept-activation-vectors.ipynb)
 - [Bias and Stereotypes](../2024-25/nlp/L8.1-biases.ipynb)
+    - [Simple example](../2024-25/nlp/L8.2-bias-bert-classifier.ipynb)
+    - [Masking](../2024-25/nlp/L8.6-bias-masking-task.ipynb)
+    - [Text completion](../2024-25/nlp/L8.7-bias-completion-task.ipynb)
 
 #### List of project proposals
 
