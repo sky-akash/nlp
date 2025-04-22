@@ -61,6 +61,11 @@ See also the list of [bibliographic references](../references/references.md)
     - [Masking](../2024-25/nlp/L8.6-bias-masking-task.ipynb)
     - [Text completion](../2024-25/nlp/L8.7-bias-completion-task.ipynb)
 
+#### Frameworks for LLMs
+- [LLama-cpp](./nlp/L9.0-llama-cpp-example.ipynb)
+- [vLLM](./nlp/L9.1-vllm-example.ipynb)
+- [MLX LM](./nlp/L9.2-mlx-example.ipynb)
+
 #### List of project proposals
 
 Project proposals can be found [here](./projects/nlp-projects-2024-25.md)
