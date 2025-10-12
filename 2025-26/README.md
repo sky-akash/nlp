@@ -24,3 +24,12 @@ See also the list of [bibliographic references](../references/references.md)
 - [Linear classifiers and neural networks](./nlp/L1.2-linear-classifiers-and-nn.ipynb)
 - [PyTorch primer](./nlp/L1.3-pytorch-basics.ipynb)
 - [PyTorch for Deep Learning](./nlp/L1.4-deep-learning-pytorch.ipynb)
+
+#### Language models
+
+- [Introduction slides](../references/language-models.pdf)
+- [Markov Language Model](./nlp/L2.0-statistical-language-models.ipynb)
+
+#### Neural networks as language models
+- [Introduction slides](../references/nlm-word2vec.pdf)
+- [Word2Vec and word embedding (basics)](./nlp/L3.0-w2w-basics.ipynb)
