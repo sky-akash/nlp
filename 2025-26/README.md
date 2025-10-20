@@ -33,3 +33,10 @@ See also the list of [bibliographic references](../references/references.md)
 #### Neural networks as language models
 - [Introduction slides](../references/nlm-word2vec.pdf)
 - [Word2Vec and word embedding (basics)](./nlp/L3.0-w2w-basics.ipynb)
+
+#### Text encoding and sequence learning
+- [Introduction slides](../references/sequence-learning.pdf)
+- [Simple RNN example](./nlp/L4.0-sequence-learning-example.ipynb)
+- [Sequence classification](./nlp/L4.1-sequence-classification.ipynb)
+- [Sequence generation](./nlp/L4.2-sequence-generation.ipynb)
+
