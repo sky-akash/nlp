@@ -40,3 +40,8 @@ See also the list of [bibliographic references](../references/references.md)
 - [Sequence classification](./nlp/L4.1-sequence-classification.ipynb)
 - [Sequence generation](./nlp/L4.2-sequence-generation.ipynb)
 
+#### Transformers
+- [Tiny Transformers Example](./nlp/L5.0-tiny-transformer.ipynb)
+- [Transformers from scratch](./nlp/L5.1-transformers.ipynb)
+- [BERT](./nlp/L5.2-bert-explained.ipynb)
+- [GPT](./nlp/L5.3-gpt.ipynb)
